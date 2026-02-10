@@ -1,0 +1,13 @@
+Ping Result 
+
+$ ping -c 5 192.168.8.100  
+PING 192.168.8.100 (192.168.8.100) 56(84) bytes of data.
+64 bytes from 192.168.8.100: icmp_seq=1 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.100: icmp_seq=2 ttl=64 time=2.06 ms
+64 bytes from 192.168.8.100: icmp_seq=3 ttl=64 time=2.79 ms
+64 bytes from 192.168.8.100: icmp_seq=4 ttl=64 time=2.13 ms
+64 bytes from 192.168.8.100: icmp_seq=5 ttl=64 time=3.02 ms
+
+--- 192.168.8.100 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4203ms
+rtt min/avg/max/mdev = 1.105/2.219/3.021/0.670 ms
