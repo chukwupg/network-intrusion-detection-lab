@@ -1,0 +1,25 @@
+Curl Requests
+
+curl -I http://192.168.8.100                                 21:39.11 Mon Feb 09 2026 >>> 
+
+HTTP/1.1 200 OK
+Date: Tue, 10 Feb 2026 02:39:33 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Sun, 08 Feb 2026 13:53:40 GMT
+ETag: "29af-64a505988e388"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+curl http://192.168.8.100/nonexistent                        21:39.34 Mon Feb 09 2026 >>> 
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Ubuntu) Server at 192.168.8.100 Port 80</address>
+</body></html>
