@@ -4,14 +4,14 @@ Attack Type: SSH Brute Force (Credential Guessing Simulation)
 Target: 192.168.8.100
 Service: SSH (Port 22)
 Tool: Hydra
-Date: 10/02/2026
+Date: 13/02/2026
 Operator: External Attacker 
 
 Command Executed:
-hydra -l testuser -P /usr/share/wordlists/rockyou.txt ssh://192.168.8.100
+hydra -l testuser -P /usr/share/wordlists/rockyou.txt ssh://192.168.8.100 -t 4
 
 Execution Notes:
-- A low thread count was intentionally used to avoid denial-of-service conditions.
+- A low thread count (-t 4) was intentionally used to avoid denial-of-service conditions.
 - The attack simulated password guessing against a single username.
 - No valid credentials were obtained.
 - Multiple authentication failures were generated on the target system.
@@ -19,7 +19,6 @@ Execution Notes:
 Observed Behavior:
 - Target responded consistently to authentication attempts.
 - No account lockout mechanism was observed during the limited attempt window.
-- Attack window became unresponsive and the target unreachable due to the nature of the attack (unspecified thread count) which will most likely lead to a denial-of-service condition on the target.
 - Authentication failures were logged server-side (validated in the next phase).
 
 Result:

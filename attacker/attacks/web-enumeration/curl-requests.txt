@@ -1,9 +1,9 @@
 Curl Requests
 
-curl -I http://192.168.8.100                                 21:39.11 Mon Feb 09 2026 >>> 
-
+┌──(bob㉿kali)-[~]
+└─$ curl -I http://192.168.8.100
 HTTP/1.1 200 OK
-Date: Tue, 10 Feb 2026 02:39:33 GMT
+Date: Fri, 13 Feb 2026 12:42:38 GMT
 Server: Apache/2.4.58 (Ubuntu)
 Last-Modified: Sun, 08 Feb 2026 13:53:40 GMT
 ETag: "29af-64a505988e388"
@@ -13,7 +13,8 @@ Vary: Accept-Encoding
 Content-Type: text/html
 
 
-curl http://192.168.8.100/nonexistent                        21:39.34 Mon Feb 09 2026 >>> 
+┌──(bob㉿kali)-[~]
+└─$ curl http://192.168.8.100/nonexistent
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
