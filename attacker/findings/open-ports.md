@@ -1,7 +1,7 @@
 # Open Ports Identified
 
 ## Summary
-A network scan was conducted against the target host to identify exposed TCP services.
+A network scan was conducted against the target host (victim server) to identify exposed TCP services.
 
 ## Results
 
@@ -11,7 +11,7 @@ A network scan was conducted against the target host to identify exposed TCP ser
 | 80   | TCP      | Open  | HTTP    |
 
 ## Notes
-- Only two services were exposed externally.
+- Only two services were exposed externally. 
 - No firewall filtering was observed on the scanned ports.
 - Service exposure is consistent with a minimal server deployment.
 
