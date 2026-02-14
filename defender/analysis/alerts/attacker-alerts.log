@@ -1,0 +1,515 @@
+02/13/2026-00:16:44.487207  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:16:44.487207  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:16:45.481931  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:16:45.481931  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:16:46.484582  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:16:46.484582  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-00:18:36.711399  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:36.711399  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:37.742508  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:37.742508  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:38.789533  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:38.789533  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:39.854118  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:39.854118  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:41.314605  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:18:41.314605  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-00:20:26.376684  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:38676 -> 192.168.8.100:80
+02/13/2026-00:20:26.376684  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:38676 -> 192.168.8.100:80
+02/13/2026-00:46:49.554714  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:3306
+02/13/2026-00:46:49.554714  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:3306
+02/13/2026-00:46:49.554714  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:3306
+02/13/2026-00:46:49.628436  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1433
+02/13/2026-00:46:49.628436  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1433
+02/13/2026-00:46:49.628436  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1433
+02/13/2026-00:46:49.888396  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1521
+02/13/2026-00:46:49.888396  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1521
+02/13/2026-00:46:49.888396  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:1521
+02/13/2026-00:46:50.045795  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5811
+02/13/2026-00:46:50.045795  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5811
+02/13/2026-00:46:50.045795  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5811
+02/13/2026-00:46:50.223856  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5432
+02/13/2026-00:46:50.223856  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5432
+02/13/2026-00:46:50.223856  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:56544 -> 192.168.8.100:5432
+02/13/2026-00:46:57.600750  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:57.600750  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:57.600750  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:57.600750  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:57.600750  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:57.600750  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:48506 -> 192.168.8.100:22
+02/13/2026-00:46:58.039345  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:9
+02/13/2026-00:46:58.040067  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.100:0 -> 192.168.8.190:9
+02/13/2026-00:46:58.039345  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:9
+02/13/2026-00:46:58.040067  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.100:0 -> 192.168.8.190:9
+02/13/2026-00:46:58.039345  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:9
+02/13/2026-00:46:58.040067  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.100:0 -> 192.168.8.190:9
+02/13/2026-00:46:58.091317  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.8.190:36256 -> 192.168.8.100:32351
+02/13/2026-00:46:58.091317  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.8.190:36256 -> 192.168.8.100:32351
+02/13/2026-00:46:58.091317  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.8.190:36256 -> 192.168.8.100:32351
+02/13/2026-00:46:58.756973  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49812 -> 192.168.8.100:22
+02/13/2026-00:46:58.756973  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49812 -> 192.168.8.100:22
+02/13/2026-00:46:58.756973  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49812 -> 192.168.8.100:22
+02/13/2026-00:46:58.768453  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.768453  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.777092  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.777092  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.768453  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.768453  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.777092  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.777092  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.768453  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.768453  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49348 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.774775  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49382 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.774868  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49378 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:58.776085  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49386 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.043579  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49868 -> 192.168.8.100:22
+02/13/2026-00:46:59.043579  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49868 -> 192.168.8.100:22
+02/13/2026-00:46:58.777092  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.777092  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49392 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.778297  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49420 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:58.781833  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49436 -> 192.168.8.100:80
+02/13/2026-00:46:59.068340  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:46:59.068340  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.783075  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49356 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:58.784027  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49404 -> 192.168.8.100:80
+02/13/2026-00:46:59.068340  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:46:59.068340  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.786084  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49374 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.788262  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49430 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.840923  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49440 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.843959  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49454 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.845554  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49464 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.846994  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49462 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.852017  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49456 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.872807  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49478 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.875528  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49492 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.889902  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49500 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.920888  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49508 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.922171  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49524 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.939865  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49526 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:58.979620  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49540 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.041694  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49548 -> 192.168.8.100:80
+02/13/2026-00:46:59.043579  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49868 -> 192.168.8.100:22
+02/13/2026-00:46:59.068340  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:46:59.068340  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:49550 -> 192.168.8.100:80
+02/13/2026-00:49:25.623127  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:3306
+02/13/2026-00:49:25.623127  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:3306
+02/13/2026-00:49:25.745250  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:5432
+02/13/2026-00:49:25.745250  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:5432
+02/13/2026-00:49:25.864714  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:1521
+02/13/2026-00:49:25.864714  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:1521
+02/13/2026-00:49:25.963767  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:5801
+02/13/2026-00:49:25.963767  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:5801
+02/13/2026-00:49:26.124011  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:1433
+02/13/2026-00:49:26.124011  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:46558 -> 192.168.8.100:1433
+02/13/2026-00:49:33.443864  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:62047 -> 192.168.8.100:22
+02/13/2026-00:49:33.443864  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:62047 -> 192.168.8.100:22
+02/13/2026-00:49:33.443864  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:62047 -> 192.168.8.100:22
+02/13/2026-00:49:33.443864  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:62047 -> 192.168.8.100:22
+02/13/2026-00:49:34.027590  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:9
+02/13/2026-00:49:34.028137  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.100:0 -> 192.168.8.190:9
+02/13/2026-00:49:34.027590  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:9
+02/13/2026-00:49:34.028137  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.8.100:0 -> 192.168.8.190:9
+02/13/2026-00:49:34.078659  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.8.190:63650 -> 192.168.8.100:34836
+02/13/2026-00:49:34.078659  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.8.190:63650 -> 192.168.8.100:34836
+02/13/2026-00:49:34.710845  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50892 -> 192.168.8.100:22
+02/13/2026-00:49:34.710845  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50892 -> 192.168.8.100:22
+02/13/2026-00:49:34.739682  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43912 -> 192.168.8.100:80
+02/13/2026-00:49:34.739682  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43912 -> 192.168.8.100:80
+02/13/2026-00:49:34.738541  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43908 -> 192.168.8.100:80
+02/13/2026-00:49:34.738541  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43908 -> 192.168.8.100:80
+02/13/2026-00:49:34.744219  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43978 -> 192.168.8.100:80
+02/13/2026-00:49:34.744219  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43978 -> 192.168.8.100:80
+02/13/2026-00:49:34.747049  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43990 -> 192.168.8.100:80
+02/13/2026-00:49:34.747049  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43990 -> 192.168.8.100:80
+02/13/2026-00:49:34.750942  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43956 -> 192.168.8.100:80
+02/13/2026-00:49:34.750942  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43956 -> 192.168.8.100:80
+02/13/2026-00:49:34.744299  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44012 -> 192.168.8.100:80
+02/13/2026-00:49:34.744299  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44012 -> 192.168.8.100:80
+02/13/2026-00:49:34.754150  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43962 -> 192.168.8.100:80
+02/13/2026-00:49:34.754150  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43962 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44000 -> 192.168.8.100:80
+02/13/2026-00:49:34.738541  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43908 -> 192.168.8.100:80
+02/13/2026-00:49:34.738541  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43908 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44000 -> 192.168.8.100:80
+02/13/2026-00:49:34.739682  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43912 -> 192.168.8.100:80
+02/13/2026-00:49:34.739682  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43912 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43924 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43924 -> 192.168.8.100:80
+02/13/2026-00:49:34.752958  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43998 -> 192.168.8.100:80
+02/13/2026-00:49:34.752958  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43998 -> 192.168.8.100:80
+02/13/2026-00:49:34.759997  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43940 -> 192.168.8.100:80
+02/13/2026-00:49:34.759997  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43940 -> 192.168.8.100:80
+02/13/2026-00:49:34.744219  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43978 -> 192.168.8.100:80
+02/13/2026-00:49:34.744219  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43978 -> 192.168.8.100:80
+02/13/2026-00:49:34.744299  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44012 -> 192.168.8.100:80
+02/13/2026-00:49:34.744299  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44012 -> 192.168.8.100:80
+02/13/2026-00:49:34.747049  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43990 -> 192.168.8.100:80
+02/13/2026-00:49:34.747049  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43990 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44000 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44000 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43924 -> 192.168.8.100:80
+02/13/2026-00:49:34.749835  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43924 -> 192.168.8.100:80
+02/13/2026-00:49:34.750942  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43956 -> 192.168.8.100:80
+02/13/2026-00:49:34.750942  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43956 -> 192.168.8.100:80
+02/13/2026-00:49:34.752958  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43998 -> 192.168.8.100:80
+02/13/2026-00:49:34.752958  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43998 -> 192.168.8.100:80
+02/13/2026-00:49:34.754150  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43962 -> 192.168.8.100:80
+02/13/2026-00:49:34.754150  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43962 -> 192.168.8.100:80
+02/13/2026-00:49:34.759997  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43940 -> 192.168.8.100:80
+02/13/2026-00:49:34.759997  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:43940 -> 192.168.8.100:80
+02/13/2026-00:49:34.781420  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44026 -> 192.168.8.100:80
+02/13/2026-00:49:34.781420  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44026 -> 192.168.8.100:80
+02/13/2026-00:49:34.781420  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44026 -> 192.168.8.100:80
+02/13/2026-00:49:34.781420  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44026 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44032 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44032 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44032 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44032 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.785421  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44060 -> 192.168.8.100:80
+02/13/2026-00:49:34.785421  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44060 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.783163  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44044 -> 192.168.8.100:80
+02/13/2026-00:49:34.789963  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44072 -> 192.168.8.100:80
+02/13/2026-00:49:34.789963  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44072 -> 192.168.8.100:80
+02/13/2026-00:49:34.785421  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44060 -> 192.168.8.100:80
+02/13/2026-00:49:34.785421  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44060 -> 192.168.8.100:80
+02/13/2026-00:49:34.789963  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44072 -> 192.168.8.100:80
+02/13/2026-00:49:34.789963  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44072 -> 192.168.8.100:80
+02/13/2026-00:49:34.799540  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44082 -> 192.168.8.100:80
+02/13/2026-00:49:34.799540  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44082 -> 192.168.8.100:80
+02/13/2026-00:49:34.829989  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44096 -> 192.168.8.100:80
+02/13/2026-00:49:34.829989  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44096 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44108 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44108 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44112 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44112 -> 192.168.8.100:80
+02/13/2026-00:49:34.799540  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44082 -> 192.168.8.100:80
+02/13/2026-00:49:34.799540  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44082 -> 192.168.8.100:80
+02/13/2026-00:49:34.829989  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44096 -> 192.168.8.100:80
+02/13/2026-00:49:34.829989  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44096 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44108 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44108 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44112 -> 192.168.8.100:80
+02/13/2026-00:49:34.834542  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44112 -> 192.168.8.100:80
+02/13/2026-00:49:34.868384  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44118 -> 192.168.8.100:80
+02/13/2026-00:49:34.868384  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44118 -> 192.168.8.100:80
+02/13/2026-00:49:34.897087  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44134 -> 192.168.8.100:80
+02/13/2026-00:49:34.897087  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44134 -> 192.168.8.100:80
+02/13/2026-00:49:34.868384  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44118 -> 192.168.8.100:80
+02/13/2026-00:49:34.868384  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44118 -> 192.168.8.100:80
+02/13/2026-00:49:34.897087  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44134 -> 192.168.8.100:80
+02/13/2026-00:49:34.897087  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44134 -> 192.168.8.100:80
+02/13/2026-00:49:34.908328  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44144 -> 192.168.8.100:80
+02/13/2026-00:49:34.908328  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44144 -> 192.168.8.100:80
+02/13/2026-00:49:34.908328  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44144 -> 192.168.8.100:80
+02/13/2026-00:49:34.908328  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44144 -> 192.168.8.100:80
+02/13/2026-00:49:34.917597  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44156 -> 192.168.8.100:80
+02/13/2026-00:49:34.917597  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44156 -> 192.168.8.100:80
+02/13/2026-00:49:34.917597  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44156 -> 192.168.8.100:80
+02/13/2026-00:49:34.917597  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44156 -> 192.168.8.100:80
+02/13/2026-00:49:34.971661  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50928 -> 192.168.8.100:22
+02/13/2026-00:49:34.980467  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44168 -> 192.168.8.100:80
+02/13/2026-00:49:34.980467  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44168 -> 192.168.8.100:80
+02/13/2026-00:49:34.971661  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50928 -> 192.168.8.100:22
+02/13/2026-00:49:34.980467  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44168 -> 192.168.8.100:80
+02/13/2026-00:49:34.980467  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:44168 -> 192.168.8.100:80
+02/13/2026-00:51:29.591057  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:37458 -> 192.168.8.100:80
+02/13/2026-00:51:29.591057  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:37458 -> 192.168.8.100:80
+02/13/2026-00:51:40.437900  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:44892 -> 192.168.8.100:80
+02/13/2026-00:51:40.437900  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:44892 -> 192.168.8.100:80
+02/13/2026-00:51:52.835890  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:40748 -> 192.168.8.100:80
+02/13/2026-00:51:52.835890  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:40748 -> 192.168.8.100:80
+02/13/2026-00:55:20.574933  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:41142 -> 192.168.8.100:22
+02/13/2026-00:55:20.574933  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:41142 -> 192.168.8.100:22
+02/13/2026-00:55:20.574933  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:41142 -> 192.168.8.100:22
+02/13/2026-00:55:20.574933  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:41142 -> 192.168.8.100:22
+02/13/2026-00:55:56.808640  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:36670 -> 192.168.8.100:22
+02/13/2026-00:55:56.808640  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:36670 -> 192.168.8.100:22
+02/13/2026-00:56:14.912276  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:58174 -> 192.168.8.100:22
+02/13/2026-00:56:14.912276  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:58174 -> 192.168.8.100:22
+02/13/2026-00:56:33.010773  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:60244 -> 192.168.8.100:22
+02/13/2026-00:56:33.010773  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:60244 -> 192.168.8.100:22
+02/13/2026-00:56:53.265849  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49698 -> 192.168.8.100:22
+02/13/2026-00:56:53.265849  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:49698 -> 192.168.8.100:22
+02/13/2026-01:05:34.085986  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:35056 -> 192.168.8.100:22
+02/13/2026-01:05:34.085986  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:35056 -> 192.168.8.100:22
+02/13/2026-01:05:34.085986  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:35056 -> 192.168.8.100:22
+02/13/2026-01:05:34.085986  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:35056 -> 192.168.8.100:22
+02/13/2026-01:17:25.929361  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:54818 -> 192.168.8.100:22
+02/13/2026-01:17:25.929361  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:54818 -> 192.168.8.100:22
+02/13/2026-01:17:25.929361  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:54818 -> 192.168.8.100:22
+02/13/2026-01:17:25.929361  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:54818 -> 192.168.8.100:22
+02/13/2026-02:16:47.517994  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:47.517994  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:48.520500  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:48.520500  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:49.522577  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:49.522577  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:50.524052  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:50.524052  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:51.969474  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:51.969474  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:52.971775  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:52.971775  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:53.975575  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:53.975575  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:54.977502  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:16:54.977502  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.1:0
+02/13/2026-02:19:40.989326  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.169:7539 -> 192.168.8.190:22
+02/13/2026-02:19:40.989326  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.169:7539 -> 192.168.8.190:22
+02/13/2026-02:19:40.989326  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.169:7539 -> 192.168.8.190:22
+02/13/2026-02:19:40.989326  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.169:7539 -> 192.168.8.190:22
+02/13/2026-02:35:43.364235  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:43.364235  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:44.357794  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:44.357794  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:45.364610  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:45.364610  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:46.367130  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:46.367130  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:47.384245  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:47.384245  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:48.483537  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:48.483537  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:49.499051  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:49.499051  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:50.511230  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:50.511230  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:51.517015  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:51.517015  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:52.539896  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:52.539896  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:53.544583  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:53.544583  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:54.590976  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:54.590976  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:55.616402  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:35:55.616402  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:17.212613  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:17.212613  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:18.223523  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:18.223523  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:19.234292  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:19.234292  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:20.242959  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:20.242959  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:21.275776  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:21.275776  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:22.290688  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:22.290688  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:23.299980  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:23.299980  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:37.961362  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:37.961362  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:39.183698  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:39.183698  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:40.249472  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:40.249472  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:41.250881  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:37:41.250881  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:53.867098  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:53.867098  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:55.432873  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:55.432873  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:56.471009  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:56.471009  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:57.584277  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:57.584277  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:59.158023  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:39:59.158023  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:00.172431  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:00.172431  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:01.186345  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:01.186345  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:02.211870  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:02.211870  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:03.212760  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:40:03.212760  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:23.027299  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:23.027299  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:24.029527  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:24.029527  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:25.031068  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:25.031068  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:26.032249  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:26.032249  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:27.034226  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:27.034226  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:28.035487  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:28.035487  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:29.037446  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:29.037446  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:30.039223  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:30.039223  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:31.040483  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:31.040483  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:32.041973  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:51:32.041973  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-02:52:04.923756  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:51124 -> 192.168.8.100:80
+02/13/2026-02:52:04.923756  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:51124 -> 192.168.8.100:80
+02/13/2026-03:17:54.129936  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:54.129936  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:55.136538  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:55.136538  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:56.137548  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:56.137548  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:57.141619  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:57.141619  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:58.145544  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:58.145544  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:59.149155  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:17:59.149155  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:00.154098  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:00.154098  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:01.153062  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:01.153062  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:02.160078  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:02.160078  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:03.157061  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-03:18:03.157061  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-11:54:06.694352  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:55165 -> 192.168.8.100:3306
+02/13/2026-11:54:14.015512  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:55165 -> 192.168.8.100:5819
+02/13/2026-11:54:26.970452  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:55165 -> 192.168.8.100:1521
+02/13/2026-11:54:30.011626  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:55165 -> 192.168.8.100:1433
+02/13/2026-11:54:37.840268  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:55165 -> 192.168.8.100:5432
+02/13/2026-11:58:23.117565  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54088 -> 192.168.8.100:80
+02/13/2026-11:58:23.117565  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54088 -> 192.168.8.100:80
+02/13/2026-11:58:23.131286  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54110 -> 192.168.8.100:80
+02/13/2026-11:58:23.131286  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54110 -> 192.168.8.100:80
+02/13/2026-11:58:23.131944  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54100 -> 192.168.8.100:80
+02/13/2026-11:58:23.131944  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54100 -> 192.168.8.100:80
+02/13/2026-11:58:23.121159  [**] [1:2009358:8] ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54072 -> 192.168.8.100:80
+02/13/2026-11:58:23.121159  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.8.190:54072 -> 192.168.8.100:80
+02/13/2026-12:25:37.235438  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50396 -> 192.168.8.100:22
+02/13/2026-12:25:37.235438  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50396 -> 192.168.8.100:22
+02/13/2026-12:26:06.899320  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:55224 -> 192.168.8.100:22
+02/13/2026-12:26:25.399495  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:59082 -> 192.168.8.100:22
+02/13/2026-12:26:43.611009  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:50536 -> 192.168.8.100:22
+02/13/2026-12:27:03.907141  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.8.190:58488 -> 192.168.8.100:22
+02/13/2026-12:42:04.999408  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-12:42:06.124103  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-12:42:07.125354  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-12:42:08.127476  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.8.190:8 -> 192.168.8.100:0
+02/13/2026-12:42:38.939155  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:48930 -> 192.168.8.100:80
+02/13/2026-12:43:21.387556  [**] [1:2034567:1] ET HUNTING curl User-Agent to Dotted Quad [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.8.190:54604 -> 192.168.8.100:80
