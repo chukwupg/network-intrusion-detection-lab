@@ -1,6 +1,6 @@
-# 🛡️ Red and Blue Team Lab: Network Intrusion and Detection Project
+# 🛡️ Red and Blue Team Lab: Network Intrusion Detection & Correlation Project
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a full defensive security workflow:
 
@@ -14,7 +14,7 @@ The goal was to simulate real-world attack activity and perform structured SOC-s
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 - Deploy and configure Suricata IDS
 - Simulate realistic attacker activity
@@ -25,7 +25,7 @@ The goal was to simulate real-world attack activity and perform structured SOC-s
 
 ---
 
-# 🧪 Lab Environment
+# Lab Environment
 
 ## Components
 
@@ -47,7 +47,7 @@ The goal was to simulate real-world attack activity and perform structured SOC-s
 
 ---
 
-# 🚩 Phase 1 – Lab Setup
+# Phase 1: Lab Setup
 
 - Installed and configured Suricata on a dedicated Ubuntu server
 - Enabled rule sets (Emerging Threats)
@@ -62,7 +62,7 @@ Artifacts:
 
 ---
 
-# 🔥 Phase 2 – Attack Simulation
+# 🚩 Phase 2: Attack Simulation
 
 Simulated real-world attacker behavior from Kali:
 
@@ -83,7 +83,7 @@ Artifacts:
 
 ---
 
-# 🧠 Phase 3 – Defender Analysis & Correlation
+# 🧠 Phase 3: Defender Analysis & Correlation
 
 Performed structured SOC analysis using:
 
@@ -120,7 +120,7 @@ defender/analysis/<br>
 
 ---
 
-# 📊 Key Findings
+# Key Findings
 
 - SSH brute-force attempts successfully detected by both IDS and host logs
 - Nmap reconnaissance detected by Suricata signatures
@@ -130,7 +130,7 @@ defender/analysis/<br>
 
 ---
 
-# 🧩 Skills Demonstrated
+# Skills Demonstrated
 
 - Network Security Monitoring (NSM)
 - IDS configuration and analysis (Suricata)
@@ -141,7 +141,7 @@ defender/analysis/<br>
 
 ---
 
-# 📈 Detection Coverage Assessment
+# Detection Coverage Assessment
 
 | Attack Type | IDS | Host Logs | Confidence |
 |-------------|-----|-----------|------------|
@@ -172,7 +172,7 @@ defender/analysis/<br>
 
 ---
 
-# 🧠 What This Project Demonstrates
+# What This Project Demonstrates
 
 This lab simulates the full lifecycle of a detection-focused investigation:
 
@@ -187,7 +187,7 @@ It showcases practical SOC workflow execution using open-source tooling.
 
 ---
 
-# 📬 Author
+# Author
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  
