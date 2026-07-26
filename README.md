@@ -1,4 +1,4 @@
-# 🛡️ Blue Team Lab: Network Intrusion and Detection Project
+# 🛡️ Red and Blue Team Lab: Network Intrusion and Detection Project
 
 ## 📌 Overview
 
