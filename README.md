@@ -62,7 +62,7 @@ Artifacts:
 
 ---
 
-# 🚩 Phase 2: Attack Simulation
+# Phase 2: Attack Simulation
 
 Simulated real-world attacker behavior from Kali:
 
@@ -83,7 +83,7 @@ Artifacts:
 
 ---
 
-# 🧠 Phase 3: Defender Analysis & Correlation
+# Phase 3: Defender Analysis & Correlation
 
 Performed structured SOC analysis using:
 
